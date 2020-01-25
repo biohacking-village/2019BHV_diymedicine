@@ -233,6 +233,7 @@ Epipencil Instructions: https://fourthievesvinegar.org/blog/2016/09/introducing-
 This method would be good to put a nonspecific dosage of an active ingredient in your system fast (e.g. possibly caffeine, B12 or for asthma). Currently being researched, the concept is that the active ingredient would be dissolved into the carrier fluid (propylene glycol and vegetable glycerin mix.
 
 ==
+
 Yet Another Disclaimer:
 The information provided in this workshop is not intended as medical advice. The user accepts all risk associated with the information, claims,and references provided within this presentation. If you are able, please consult your physician and other medical professionals. 
 
