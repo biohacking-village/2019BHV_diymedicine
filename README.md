@@ -156,7 +156,7 @@ Materials:
 * Turn the screw handle until the tablet is pushed out of the tube
 * Let the tablet drop on to a paper towel and air dry briefly
 
-<img src="media/BHV19_diymed_press.jpg"width="200"> 
+<img src="media/BHV19_diymed_press.jpg" width="200"> 
 
 **Tablet Making Instructions:**
 
